@@ -1,5 +1,4 @@
 # My Commucation AI Training
----
 Welcome to the AI training with My Communication. This repo will guide you through the process of this training.
 The training program was designed to enhance my skills in AI and machine learning, focusing on real-world applications within the communication industry.
 
